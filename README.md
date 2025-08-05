@@ -11,9 +11,7 @@
 
 This thesis explores the application of Conformal Prediction techniques to long-memory time series, using models such as ARFIMA. The goal is to construct statistically valid prediction intervals in the presence of long-range dependence, a feature that challenges traditional forecasting methods.
 
-## 📄 PDF Thesis
 
-[📥 Download the thesis PDF](#) *(Add Google Drive or Dropbox link here if PDF >100MB)*
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License
